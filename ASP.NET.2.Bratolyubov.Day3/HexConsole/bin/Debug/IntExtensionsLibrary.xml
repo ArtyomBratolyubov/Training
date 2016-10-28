@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IntExtensionsLibrary</name>
+    </assembly>
+    <members>
+        <member name="M:HexLibrary.HexStringFormatter.Format(System.String,System.Object,System.IFormatProvider)">
+            <summary>
+            Converts the value of a specified object to an equivalent string representation using specified format
+            </summary>
+            <param name="format">A format string containing formatting specifications</param>
+            <param name="arg">An object to format</param>
+            <param name="formatProvider">An object that supplies format information about the current instance</param>
+            <returns>The string representation of the value of arg, formatted as specified by format</returns>
+        </member>
+        <member name="M:HexLibrary.HexStringFormatter.GetFormat(System.Type)">
+            <summary>
+            Returns an object that provides formatting services for the specified type.
+            </summary>
+            <param name="formatType">An object that specifies the type of format object to return</param>
+            <returns>An instance of the object specified by formatType</returns>
+        </member>
+    </members>
+</doc>

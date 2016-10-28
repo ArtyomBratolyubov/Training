@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BubbleSortLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:BubbleSortLibrary.BubbleMethod">
+            <summary>
+            Contains bubble sorting
+            </summary>
+        </member>
+        <member name="M:BubbleSortLibrary.BubbleMethod.Sort(System.Int32[][],System.Collections.IComparer)">
+            <summary>
+            Sorts the array using bubble method
+            </summary>
+            <param name="array">Two-dimensional array to sort</param>
+            <param name="comparer">Comparer object implementing sorting method</param>
+        </member>
+        <member name="M:BubbleSortLibrary.BubbleMethod.ByMaxElement">
+            <summary>
+            Returns new instance of array comparer(by max element in array)
+            </summary>
+            <returns>ArrayComparerByMaxElement object</returns>
+        </member>
+        <member name="M:BubbleSortLibrary.BubbleMethod.ByMinElement">
+            <summary>
+            Returns new instance of array comparer(by min element in array)
+            </summary>
+            <returns>ArrayComparerByMinElement object</returns>
+        </member>
+        <member name="M:BubbleSortLibrary.BubbleMethod.BySumOfElements">
+            <summary>
+            Returns new instance of array comparer(by sum of element in array)
+            </summary>
+            <returns>ArrayComparerBySumOFElements object</returns>
+        </member>
+        <member name="M:BubbleSortLibrary.BubbleMethod.ByMaxElementDesc">
+            <summary>
+            Returns new instance of array comparer for desc sorting(by max element in array)
+            </summary>
+            <returns>ArrayComparerByMaxElement object</returns>
+        </member>
+        <member name="M:BubbleSortLibrary.BubbleMethod.ByMinElementDesc">
+            <summary>
+            Returns new instance of array comparer for desc sorting(by min element in array)
+            </summary>
+            <returns>ArrayComparerByMinElement object</returns>
+        </member>
+        <member name="M:BubbleSortLibrary.BubbleMethod.BySumOfElementsDesc">
+            <summary>
+            Returns new instance of array comparer for desc sorting(by max element in array)
+            </summary>
+            <returns>ArrayComparerByMaxElement object</returns>
+        </member>
+        <member name="M:BubbleSortLibrary.BubbleMethod.SortHelper(System.Int32[][],System.Collections.IComparer)">
+            <summary>
+            Implementation of bubble sorting method
+            </summary>
+            <param name="ar">wo-dimensional array to sort</param>
+            <param name="comparer">Comparer object implementing sorting method</param>
+        </member>
+    </members>
+</doc>

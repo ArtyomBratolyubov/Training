@@ -1,0 +1,9 @@
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day3\HexConsole\bin\Debug\HexConsole.exe.config
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day3\HexConsole\bin\Debug\HexConsole.exe
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day3\HexConsole\bin\Debug\HexConsole.pdb
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day3\HexConsole\obj\Debug\HexConsole.exe
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day3\HexConsole\obj\Debug\HexConsole.pdb
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day3\HexConsole\bin\Debug\IntExtensionsLibrary.dll
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day3\HexConsole\bin\Debug\IntExtensionsLibrary.pdb
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day3\HexConsole\obj\Debug\HexConsole.csprojResolveAssemblyReference.cache
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day3\HexConsole\bin\Debug\IntExtensionsLibrary.xml

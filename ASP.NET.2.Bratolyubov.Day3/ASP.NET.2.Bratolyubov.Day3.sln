@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSortLibrary", "BubbleSortLibrary\BubbleSortLibrary.csproj", "{30DBD1BC-966F-4AB4-A39B-505B6854BA7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSortConsole", "BubbleSortConsole\BubbleSortConsole.csproj", "{4A7751EC-B951-40FF-8035-1231CD7695D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexConsole", "HexConsole\HexConsole.csproj", "{7AD7BA95-0B9A-4E96-8212-AD61BBE0E463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexFormatLibrary", "HexFormatLibrary\HexFormatLibrary.csproj", "{E12629CB-EEDD-4E41-AC03-97BDB7C52979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30DBD1BC-966F-4AB4-A39B-505B6854BA7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30DBD1BC-966F-4AB4-A39B-505B6854BA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30DBD1BC-966F-4AB4-A39B-505B6854BA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30DBD1BC-966F-4AB4-A39B-505B6854BA7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A7751EC-B951-40FF-8035-1231CD7695D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7751EC-B951-40FF-8035-1231CD7695D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7751EC-B951-40FF-8035-1231CD7695D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7751EC-B951-40FF-8035-1231CD7695D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AD7BA95-0B9A-4E96-8212-AD61BBE0E463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD7BA95-0B9A-4E96-8212-AD61BBE0E463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD7BA95-0B9A-4E96-8212-AD61BBE0E463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD7BA95-0B9A-4E96-8212-AD61BBE0E463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E12629CB-EEDD-4E41-AC03-97BDB7C52979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E12629CB-EEDD-4E41-AC03-97BDB7C52979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E12629CB-EEDD-4E41-AC03-97BDB7C52979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E12629CB-EEDD-4E41-AC03-97BDB7C52979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

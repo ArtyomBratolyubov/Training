@@ -1,0 +1,6 @@
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day3\BubbleSortLibrary\bin\Debug\BubbleSortLibrary.XML
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day3\BubbleSortLibrary\bin\Debug\BubbleSortLibrary.dll
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day3\BubbleSortLibrary\bin\Debug\BubbleSortLibrary.pdb
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day3\BubbleSortLibrary\obj\Debug\BubbleSortLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day3\BubbleSortLibrary\obj\Debug\BubbleSortLibrary.dll
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day3\BubbleSortLibrary\obj\Debug\BubbleSortLibrary.pdb

@@ -1,0 +1,5 @@
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day3\IntExtensionsLibrary\bin\Debug\IntExtensionsLibrary.dll
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day3\IntExtensionsLibrary\bin\Debug\IntExtensionsLibrary.pdb
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day3\IntExtensionsLibrary\obj\Debug\IntExtensionsLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day3\IntExtensionsLibrary\obj\Debug\IntExtensionsLibrary.dll
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day3\IntExtensionsLibrary\obj\Debug\IntExtensionsLibrary.pdb
