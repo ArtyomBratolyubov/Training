@@ -1,0 +1,9 @@
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\CyclicalQueueConsole\bin\Debug\CyclicalQueueConsole.exe.config
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\CyclicalQueueConsole\bin\Debug\CyclicalQueueConsole.exe
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\CyclicalQueueConsole\bin\Debug\CyclicalQueueConsole.pdb
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\CyclicalQueueConsole\obj\Debug\CyclicalQueueConsole.exe
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\CyclicalQueueConsole\obj\Debug\CyclicalQueueConsole.pdb
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\CyclicalQueueConsole\bin\Debug\СyclicalQueue.dll
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\CyclicalQueueConsole\bin\Debug\СyclicalQueue.pdb
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\CyclicalQueueConsole\obj\Debug\CyclicalQueueConsole.csprojResolveAssemblyReference.cache
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\CyclicalQueueConsole\bin\Debug\СyclicalQueue.xml

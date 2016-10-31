@@ -1,0 +1,5 @@
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\СyclicalQueue\bin\Debug\СyclicalQueue.dll
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\СyclicalQueue\bin\Debug\СyclicalQueue.pdb
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\СyclicalQueue\obj\Debug\СyclicalQueueLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\СyclicalQueue\obj\Debug\СyclicalQueue.dll
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\СyclicalQueue\obj\Debug\СyclicalQueue.pdb

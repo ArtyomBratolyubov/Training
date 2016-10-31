@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortLibrary", "MergeSortLibrary\MergeSortLibrary.csproj", "{CAE73D82-F7C3-4BB5-B57D-2B8630A7BEDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyclicalQueueConsole", "CyclicalQueueConsole\CyclicalQueueConsole.csproj", "{A67BF2C6-49AC-43C1-8DEE-0E8F18E8A86D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortConsole", "MergeSortConsole\MergeSortConsole.csproj", "{7CA9D1E4-E9AB-4507-AA36-3996FB01AB58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyclicalQueueLibrary", "CyclicalQueueLibrary\CyclicalQueueLibrary.csproj", "{14F756B5-82D3-4257-9110-62B4E8EF04AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE73D82-F7C3-4BB5-B57D-2B8630A7BEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE73D82-F7C3-4BB5-B57D-2B8630A7BEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE73D82-F7C3-4BB5-B57D-2B8630A7BEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE73D82-F7C3-4BB5-B57D-2B8630A7BEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A67BF2C6-49AC-43C1-8DEE-0E8F18E8A86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67BF2C6-49AC-43C1-8DEE-0E8F18E8A86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67BF2C6-49AC-43C1-8DEE-0E8F18E8A86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67BF2C6-49AC-43C1-8DEE-0E8F18E8A86D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA9D1E4-E9AB-4507-AA36-3996FB01AB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA9D1E4-E9AB-4507-AA36-3996FB01AB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA9D1E4-E9AB-4507-AA36-3996FB01AB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA9D1E4-E9AB-4507-AA36-3996FB01AB58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14F756B5-82D3-4257-9110-62B4E8EF04AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F756B5-82D3-4257-9110-62B4E8EF04AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F756B5-82D3-4257-9110-62B4E8EF04AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F756B5-82D3-4257-9110-62B4E8EF04AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

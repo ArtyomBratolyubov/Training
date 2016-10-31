@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MergeSortLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:MergeSortLibrary.MergeMethod">
+            <summary>
+            Contains merge sort method
+            </summary>
+        </member>
+        <member name="M:MergeSortLibrary.MergeMethod.Sort(System.Int32[])">
+            <summary>
+            Sorts the array using merge method
+            </summary>
+            <param name="array">Array of int's</param>
+        </member>
+    </members>
+</doc>

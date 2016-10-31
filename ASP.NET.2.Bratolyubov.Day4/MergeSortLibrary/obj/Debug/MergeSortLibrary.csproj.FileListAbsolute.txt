@@ -1,0 +1,6 @@
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\MergeSortLibrary\obj\Debug\MergeSortLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\MergeSortLibrary\bin\Debug\MergeSortLibrary.dll
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\MergeSortLibrary\bin\Debug\MergeSortLibrary.pdb
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\MergeSortLibrary\obj\Debug\MergeSortLibrary.dll
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\MergeSortLibrary\obj\Debug\MergeSortLibrary.pdb
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\MergeSortLibrary\bin\Debug\MergeSortLibrary.XML

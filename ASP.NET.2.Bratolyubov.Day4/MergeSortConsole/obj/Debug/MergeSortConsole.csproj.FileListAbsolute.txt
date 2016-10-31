@@ -1,0 +1,9 @@
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\MergeSortConsole\bin\Debug\MergeSortConsole.exe.config
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\MergeSortConsole\bin\Debug\MergeSortConsole.exe
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\MergeSortConsole\bin\Debug\MergeSortConsole.pdb
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\MergeSortConsole\bin\Debug\MergeSortLibrary.dll
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\MergeSortConsole\bin\Debug\MergeSortLibrary.pdb
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\MergeSortConsole\obj\Debug\MergeSortConsole.csprojResolveAssemblyReference.cache
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\MergeSortConsole\obj\Debug\MergeSortConsole.exe
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\MergeSortConsole\obj\Debug\MergeSortConsole.pdb
+C:\Users\Archie\Documents\Visual Studio 2015\Projects\ASP.NET.2.Bratolyubov.Day4\MergeSortConsole\bin\Debug\MergeSortLibrary.xml
